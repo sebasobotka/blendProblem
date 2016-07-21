@@ -1,4 +1,4 @@
-# openframeworks multiply blending and opacity problem
+# openframeworks app v0.9.3 - multiply blending and opacity problem
 
 solution here: https://forum.openframeworks.cc/t/opacity-and-blending-fbos-problem/23408
 
